@@ -1,0 +1,20 @@
+DECISION TREE
+              precision    recall  f1-score   support
+
+           0       0.30      0.40      0.34        25
+           1       0.88      0.83      0.86       138
+
+    accuracy                           0.77       163
+   macro avg       0.59      0.62      0.60       163
+weighted avg       0.80      0.77      0.78       163
+
+
+SVM (RBF)
+              precision    recall  f1-score   support
+
+           0       0.34      0.48      0.40        25
+           1       0.90      0.83      0.86       138
+
+    accuracy                           0.78       163
+   macro avg       0.62      0.66      0.63       163
+weighted avg       0.81      0.78      0.79       163
