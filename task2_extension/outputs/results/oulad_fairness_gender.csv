@@ -1,0 +1,3 @@
+gender,accuracy,selection_rate,recall,precision
+F,0.879,0.428,0.795,0.968
+M,0.881,0.466,0.819,0.956
